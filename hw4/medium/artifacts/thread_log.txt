@@ -1,0 +1,15 @@
+1 thread takes 6.4350 s
+2 thread takes 8.0567 s
+3 thread takes 8.0719 s
+4 thread takes 8.1322 s
+5 thread takes 8.2851 s
+6 thread takes 8.0852 s
+7 thread takes 8.2419 s
+8 thread takes 8.9161 s
+9 thread takes 7.9557 s
+10 thread takes 8.3662 s
+11 thread takes 8.3290 s
+12 thread takes 8.4135 s
+13 thread takes 8.3767 s
+14 thread takes 8.4945 s
+15 thread takes 8.2765 s

@@ -1,0 +1,16 @@
+1 threads -- 17.3004 s
+2 threads -- 23.1404 s
+3 threads -- 23.4500 s
+4 threads -- 27.7279 s
+5 threads -- 33.2848 s
+6 threads -- 42.8679 s
+1 threads -- 16.3352 s
+2 threads -- 18.5124 s
+3 threads -- 20.4854 s
+4 threads -- 33.3285 s
+5 threads -- 34.1284 s
+6 threads -- 49.6524 s
+7 threads -- 52.0030 s
+8 threads -- 57.7921 s
+9 threads -- 67.4044 s
+10 threads -- 73.9373 s

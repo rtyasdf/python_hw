@@ -1,0 +1,15 @@
+1 process takes 8.1065 s
+2 process takes 5.9290 s
+3 process takes 4.3037 s
+4 process takes 4.9376 s
+5 process takes 4.5314 s
+6 process takes 4.3403 s
+7 process takes 3.7186 s
+8 process takes 3.1649 s
+9 process takes 3.2470 s
+10 process takes 3.2462 s
+11 process takes 3.2489 s
+12 process takes 3.2110 s
+13 process takes 3.2722 s
+14 process takes 3.2974 s
+15 process takes 3.1889 s

@@ -1,0 +1,10 @@
+1 processes -- 16.3971 s
+2 processes -- 10.3622 s
+3 processes -- 9.9599 s
+4 processes -- 8.8051 s
+5 processes -- 9.8727 s
+6 processes -- 9.4365 s
+7 processes -- 10.5257 s
+8 processes -- 11.4512 s
+9 processes -- 12.4490 s
+10 processes -- 12.0193 s
