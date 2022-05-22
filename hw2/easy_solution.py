@@ -31,5 +31,5 @@ def generate_table(elements: List[List[Union[int, str]]]) -> str:
 
 if __name__ == '__main__':
   elts = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
-  with open('artifacts/table.tex', 'w') as f:
+  with open('artifacts/easy/table.tex', 'w') as f:
     f.write(generate_table(elts))
